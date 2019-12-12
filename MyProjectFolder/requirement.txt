@@ -1,0 +1,9 @@
+Requirments for my project:
+
+- Please install the module requests
+
+- Please install json module
+
+Those two module has to be installed before running this chatbot. 
+
+Thank you for corperation. 
